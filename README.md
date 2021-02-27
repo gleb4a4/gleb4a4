@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+
 
 - 🔭 I'm working on myself now
 - 🌱 I’m currently learning Vue3 / Angular2+
